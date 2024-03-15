@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobishaala/static/css/main.f1cf9004.css",
+    "main.js": "/mobishaala/static/js/main.e848947e.js",
+    "static/js/453.6e15ef79.chunk.js": "/mobishaala/static/js/453.6e15ef79.chunk.js",
+    "index.html": "/mobishaala/index.html",
+    "main.f1cf9004.css.map": "/mobishaala/static/css/main.f1cf9004.css.map",
+    "main.e848947e.js.map": "/mobishaala/static/js/main.e848947e.js.map",
+    "453.6e15ef79.chunk.js.map": "/mobishaala/static/js/453.6e15ef79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cf9004.css",
+    "static/js/main.e848947e.js"
+  ]
+}
